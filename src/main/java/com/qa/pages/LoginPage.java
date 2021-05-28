@@ -8,6 +8,7 @@ public class LoginPage {
 	
 	public void login() {
 		System.out.println("Enter Username");
+		System.out.println("Enter Password");
 	}
 
 }
